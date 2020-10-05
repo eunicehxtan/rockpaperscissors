@@ -4,6 +4,8 @@
 
 //GLOBAL VARIABLES
 /* global $ */
-
+function saveChoice() {
+    var userChoice = document.getElementById("input").value;
+}
 
 
